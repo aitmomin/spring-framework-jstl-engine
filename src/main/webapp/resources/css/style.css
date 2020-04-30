@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+div{
+	border: 1px dotted gray;
+	padding: 10px;
+	margin: 10px;
+}
+.table1 th{
+	border: 1px dotted gray;
+	background: aqua;
+}
+.table1 td{
+	border: 1px dotted gray;
+	background: white;
+}
