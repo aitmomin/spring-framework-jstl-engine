@@ -11,7 +11,7 @@
 		<java-version>1.6</java-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<!-- Spring -->
-		<spring-framework.version>4.3.3.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.18</spring-framework.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>5.2.4.Final</hibernate.version>
